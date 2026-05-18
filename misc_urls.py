@@ -75,9 +75,9 @@ GROUP_URLS = [
         "group j",
         "Chirp Vee2",
         # Monitoring URL:
-        "http://104.248.128.182:3000/dashboards",
+        "http://164.92.203.78:3000/dashboards",
         # Logging URL:
-        "http://104.248.128.182:3000/d/minitwit-logs/minitwit-logs?orgId=1&from=now-6h&to=now&timezone=browser&refresh=10s",
+        "http://164.92.203.78:3000/d/minitwit-logs/minitwit-logs?orgId=1&from=now-6h&to=now&timezone=browser&refresh=10s",
     ],
     [
         "group k",
